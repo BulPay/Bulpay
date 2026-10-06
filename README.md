@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="assets/logo.png" alt="BolPay" width="120" height="120" />
 
 # BolPay
 
